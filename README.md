@@ -15,7 +15,9 @@ More information about the CSS and HTML preprocessor AbsurdJS can be found at [h
 
 ## Usage
 
-Free for use by anyone, under supplied LICENSE.md. 
+Is under LICENSE.md. 
+
+Clone the repo, go to root of the folder in a command line then enter the commands below to start it.
 
 ```
 > npm install
